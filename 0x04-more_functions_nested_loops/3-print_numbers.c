@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * print_numbers - print numbers since 0 upto 9
- * Return: The numbers since 0 upto 9
+ * print_numbers - print numbers since 0 up to 9
+ * Return: The numbers since 0 up to 9
  */
 
 void print_numbers(void)
 
 {
-	int x
+	int x;
 
 	for (x = 0; x <= 9; x++)
 	{
