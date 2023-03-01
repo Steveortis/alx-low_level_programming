@@ -4,7 +4,7 @@
  * print_diagonal - Draws a diagonal line according to parameter
  * @n: The number of times to print the diagonal line
  * Return: empty
- */
+ */i
 
 void print_diagonal(int n)
 
@@ -15,7 +15,7 @@ void print_diagonal(int n)
 
 	if (n <= 0)
 	{
-	_putchar('\n')
+	_putchar('\n');
 	}
 	else
 	{
